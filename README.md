@@ -5,9 +5,9 @@ Uma vez aberta a página já podemos testar o primeiro exemplo. Lembrando que no
 
 Colocar no formulário:
 
-no alvo: imagem.png
+no alvo: imagem.png <br>
 no pattern: .*png
-Execute a nossa primeira regex!
+
 
 <p align="center">
-    <img width="400" src=".ambiente.png"
+    <img width="400" src="./ambiente.png"

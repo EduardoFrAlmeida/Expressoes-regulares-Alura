@@ -10,4 +10,4 @@ no pattern: .*png
 Execute a nossa primeira regex!
 
 <p align="center">
-    <img windth="600" src=".ambiente.png"
+    <img width="400" src=".ambiente.png"
